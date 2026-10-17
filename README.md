@@ -1,19 +1,16 @@
 # Módulo 3 - Trilha HTML
 
-**Título:** Recriando Wikipedia, com um layout melhor :)
+**Título:** Recriando Wikipedia, historia do futebol feminino
 
-## Objetivo
-Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
+O futebol feminino no Brasil é marcado por uma história de luta, superação e conquistas. Apesar de ter enfrentado preconceito e proibição durante décadas, as mulheres continuaram lutando pelo direito de jogar. Com o passar dos anos, a modalidade conquistou reconhecimento nacional e internacional, destacando grandes atletas, como Marta, e inspirando novas gerações a acreditarem em seu talento e no poder do esporte.
 
-## Desafio
-Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
+<img width="1737" height="815" alt="image" src="https://github.com/user-attachments/assets/87ea6de3-7ee1-4f79-9918-2fc31511a928" />
 
-Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
 
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
 
 ## Links úteis
-- [Download do NVDA](https://www.nvaccess.org/download/)
-- [Wikipedia](https://pt.wikipedia.org/)
+
+-site: http://127.0.0.1:5500/index%20copy.html#historia
+- [Wikipedia]https://pt.wikipedia.org/wiki/Futebol_feminino_no_Brasil
 
 
